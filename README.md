@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-fix-names-in-a-table](https://github.com/harshrew-bit/leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1693-daily-leads-and-partners](https://github.com/harshrew-bit/leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/harshrew-bit/leetcode/tree/master/1729-find-followers-count) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/harshrew-bit/leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 ## Array
 |  |
 | ------- |
