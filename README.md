@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/harshrew-bit/leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/harshrew-bit/leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1667-fix-names-in-a-table](https://github.com/harshrew-bit/leetcode/tree/master/1667-fix-names-in-a-table) |
+| [1693-daily-leads-and-partners](https://github.com/harshrew-bit/leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/harshrew-bit/leetcode/tree/master/1729-find-followers-count) |
 ## Array
 |  |
