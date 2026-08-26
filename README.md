@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/harshrew-bit/leetcode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/harshrew-bit/leetcode/tree/master/0402-remove-k-digits) |
 | [0796-rotate-string](https://github.com/harshrew-bit/leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/harshrew-bit/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshrew-bit/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0242-valid-anagram](https://github.com/harshrew-bit/leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/harshrew-bit/leetcode/tree/master/0796-rotate-string) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/harshrew-bit/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
