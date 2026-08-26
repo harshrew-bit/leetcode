@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/harshrew-bit/leetcode/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/harshrew-bit/leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/harshrew-bit/leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1075-project-employees-i](https://github.com/harshrew-bit/leetcode/tree/master/1075-project-employees-i) |
 | [1661-average-time-of-process-per-machine](https://github.com/harshrew-bit/leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/harshrew-bit/leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1693-daily-leads-and-partners](https://github.com/harshrew-bit/leetcode/tree/master/1693-daily-leads-and-partners) |
