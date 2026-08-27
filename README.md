@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshrew-bit/leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshrew-bit/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/harshrew-bit/leetcode/tree/master/0169-majority-element) |
 | [0735-asteroid-collision](https://github.com/harshrew-bit/leetcode/tree/master/0735-asteroid-collision) |
 ## Stack
 |  |
@@ -81,12 +82,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshrew-bit/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/harshrew-bit/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/harshrew-bit/leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshrew-bit/leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshrew-bit/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/harshrew-bit/leetcode/tree/master/0169-majority-element) |
 ## String Matching
 |  |
 | ------- |
@@ -94,9 +97,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/harshrew-bit/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/harshrew-bit/leetcode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshrew-bit/leetcode/tree/master/0053-maximum-subarray) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/harshrew-bit/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/harshrew-bit/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
