@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/harshrew-bit/leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1075-project-employees-i](https://github.com/harshrew-bit/leetcode/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/harshrew-bit/leetcode/tree/master/1084-sales-analysis-iii) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/harshrew-bit/leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1661-average-time-of-process-per-machine](https://github.com/harshrew-bit/leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/harshrew-bit/leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1693-daily-leads-and-partners](https://github.com/harshrew-bit/leetcode/tree/master/1693-daily-leads-and-partners) |
