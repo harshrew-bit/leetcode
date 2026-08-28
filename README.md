@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/harshrew-bit/leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshrew-bit/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/harshrew-bit/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/harshrew-bit/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/harshrew-bit/leetcode/tree/master/0169-majority-element) |
 | [0735-asteroid-collision](https://github.com/harshrew-bit/leetcode/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshrew-bit/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/harshrew-bit/leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/harshrew-bit/leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Tree
 |  |
