@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/harshrew-bit/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/harshrew-bit/leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/harshrew-bit/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/harshrew-bit/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/harshrew-bit/leetcode/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshrew-bit/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/harshrew-bit/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/harshrew-bit/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/harshrew-bit/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/harshrew-bit/leetcode/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/harshrew-bit/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Simulation
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/harshrew-bit/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/harshrew-bit/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/harshrew-bit/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Binary Search
 |  |
 | ------- |
