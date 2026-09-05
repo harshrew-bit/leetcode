@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/harshrew-bit/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/harshrew-bit/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/harshrew-bit/leetcode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/harshrew-bit/leetcode/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/harshrew-bit/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshrew-bit/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/harshrew-bit/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/harshrew-bit/leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/harshrew-bit/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/harshrew-bit/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/harshrew-bit/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/harshrew-bit/leetcode/tree/master/0496-next-greater-element-i) |
