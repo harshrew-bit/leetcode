@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/harshrew-bit/leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/harshrew-bit/leetcode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/harshrew-bit/leetcode/tree/master/0184-department-highest-salary) |
+| [0196-delete-duplicate-emails](https://github.com/harshrew-bit/leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/harshrew-bit/leetcode/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/harshrew-bit/leetcode/tree/master/0577-employee-bonus) |
 | [0585-investments-in-2016](https://github.com/harshrew-bit/leetcode/tree/master/0585-investments-in-2016) |
