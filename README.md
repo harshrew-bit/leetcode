@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshrew-bit/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/harshrew-bit/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harshrew-bit/leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/harshrew-bit/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/harshrew-bit/leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/harshrew-bit/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshrew-bit/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -242,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/harshrew-bit/leetcode/tree/master/0155-min-stack) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/harshrew-bit/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
