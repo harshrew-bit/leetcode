@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshrew-bit/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshrew-bit/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/harshrew-bit/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/harshrew-bit/leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/harshrew-bit/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshrew-bit/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshrew-bit/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/harshrew-bit/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/harshrew-bit/leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/harshrew-bit/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Bracket Sequences
 |  |
@@ -230,10 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/harshrew-bit/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshrew-bit/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/harshrew-bit/leetcode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshrew-bit/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/harshrew-bit/leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/harshrew-bit/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
