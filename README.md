@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/harshrew-bit/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/harshrew-bit/leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/harshrew-bit/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/harshrew-bit/leetcode/tree/master/0231-power-of-two) |
 ## Tree
 |  |
 | ------- |
@@ -230,12 +231,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/harshrew-bit/leetcode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshrew-bit/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/harshrew-bit/leetcode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/harshrew-bit/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/harshrew-bit/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/harshrew-bit/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/harshrew-bit/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/harshrew-bit/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
