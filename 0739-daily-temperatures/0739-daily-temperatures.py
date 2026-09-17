@@ -1,16 +1,15 @@
 class Solution(object):
     def dailyTemperatures(self, temperatures):
         n=len(temperatures)
-        st=[]
         ans=[]
+        st=[]
         for i in range (n-1,-1,-1):
-            while st and temperatures[st[-1]]<=temperatures[i] :   
+            while st and temperatures[st[-1]] <=temperatures[i]:
                 st.pop()
-            if not st :
+            if not st:
                 ans.append(0)
-            else :
+            else:
                 ans.append(st[-1]-i)
             st.append(i)
-
         ans.reverse()
         return ans
