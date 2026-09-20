@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/harshrew-bit/leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/harshrew-bit/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/harshrew-bit/leetcode/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/harshrew-bit/leetcode/tree/master/0875-koko-eating-bananas) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshrew-bit/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/harshrew-bit/leetcode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/harshrew-bit/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/harshrew-bit/leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/harshrew-bit/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
