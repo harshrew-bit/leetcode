@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshrew-bit/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/harshrew-bit/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/harshrew-bit/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/harshrew-bit/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/harshrew-bit/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/harshrew-bit/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/harshrew-bit/leetcode/tree/master/0283-move-zeroes) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/harshrew-bit/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/harshrew-bit/leetcode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/harshrew-bit/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/harshrew-bit/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/harshrew-bit/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/harshrew-bit/leetcode/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshrew-bit/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/harshrew-bit/leetcode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshrew-bit/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/harshrew-bit/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/harshrew-bit/leetcode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
