@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/harshrew-bit/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/harshrew-bit/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/harshrew-bit/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/harshrew-bit/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/harshrew-bit/leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/harshrew-bit/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshrew-bit/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshrew-bit/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/harshrew-bit/leetcode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/harshrew-bit/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/harshrew-bit/leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshrew-bit/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/harshrew-bit/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/harshrew-bit/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/harshrew-bit/leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/harshrew-bit/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/harshrew-bit/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/harshrew-bit/leetcode/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/harshrew-bit/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/harshrew-bit/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshrew-bit/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/harshrew-bit/leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/harshrew-bit/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/harshrew-bit/leetcode/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/harshrew-bit/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harshrew-bit/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshrew-bit/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/harshrew-bit/leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/harshrew-bit/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
@@ -257,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshrew-bit/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/harshrew-bit/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/harshrew-bit/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/harshrew-bit/leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
