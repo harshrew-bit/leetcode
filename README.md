@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/harshrew-bit/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/harshrew-bit/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/harshrew-bit/leetcode/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/harshrew-bit/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Tree
 |  |
 | ------- |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/harshrew-bit/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/harshrew-bit/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/harshrew-bit/leetcode/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/harshrew-bit/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Recursion
 |  |
 | ------- |
