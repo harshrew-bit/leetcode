@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/harshrew-bit/leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshrew-bit/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/harshrew-bit/leetcode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/harshrew-bit/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/harshrew-bit/leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/harshrew-bit/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshrew-bit/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshrew-bit/leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/harshrew-bit/leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/harshrew-bit/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/harshrew-bit/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/harshrew-bit/leetcode/tree/master/0242-valid-anagram) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshrew-bit/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/harshrew-bit/leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshrew-bit/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/harshrew-bit/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/harshrew-bit/leetcode/tree/master/0141-linked-list-cycle) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/harshrew-bit/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/harshrew-bit/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/harshrew-bit/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harshrew-bit/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshrew-bit/leetcode/tree/master/0242-valid-anagram) |
