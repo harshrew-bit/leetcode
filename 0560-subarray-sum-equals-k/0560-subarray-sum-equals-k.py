@@ -1,6 +1,6 @@
 class Solution(object):
     def subarraySum(self, nums, k):
-        n=len(nums)
+        n= len(nums)
         mpp={}
         sums=0
         cnt=0
