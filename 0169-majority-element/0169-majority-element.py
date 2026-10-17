@@ -8,6 +8,6 @@ class Solution(object):
                 x=nums[i]
             if nums[i]==x:
                 cnt+=1
-            else :
+            else:
                 cnt-=1
         return x
