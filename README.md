@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/harshrew-bit/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/harshrew-bit/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshrew-bit/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/harshrew-bit/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshrew-bit/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/harshrew-bit/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/harshrew-bit/leetcode/tree/master/0049-group-anagrams) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/harshrew-bit/leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshrew-bit/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshrew-bit/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/harshrew-bit/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/harshrew-bit/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/harshrew-bit/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/harshrew-bit/leetcode/tree/master/0075-sort-colors) |
