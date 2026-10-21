@@ -3,6 +3,7 @@ class Solution(object):
         n= len(nums)
         mpp={}
         sums=0
+        diff=0
         cnt=0
         mpp[0]=1
         for i in range (n):
@@ -15,4 +16,3 @@ class Solution(object):
             else:
                 mpp[sums]=1
         return cnt
-        
