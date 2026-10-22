@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/harshrew-bit/leetcode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/harshrew-bit/leetcode/tree/master/0875-koko-eating-bananas) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshrew-bit/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/harshrew-bit/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Stack
 |  |
 | ------- |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/harshrew-bit/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/harshrew-bit/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/harshrew-bit/leetcode/tree/master/0371-sum-of-two-integers) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/harshrew-bit/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Recursion
 |  |
 | ------- |
