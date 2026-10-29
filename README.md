@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/harshrew-bit/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/harshrew-bit/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/harshrew-bit/leetcode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/harshrew-bit/leetcode/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/harshrew-bit/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/harshrew-bit/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshrew-bit/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/harshrew-bit/leetcode/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/harshrew-bit/leetcode/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/harshrew-bit/leetcode/tree/master/0946-validate-stack-sequences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshrew-bit/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/harshrew-bit/leetcode/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/harshrew-bit/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/harshrew-bit/leetcode/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/harshrew-bit/leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/harshrew-bit/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshrew-bit/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/harshrew-bit/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/harshrew-bit/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/harshrew-bit/leetcode/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/harshrew-bit/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/harshrew-bit/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harshrew-bit/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshrew-bit/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
