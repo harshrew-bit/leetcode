@@ -1,17 +1,14 @@
 class Solution(object):
     def singleNonDuplicate(self, nums):
-        n=len(nums)
-        l,r=0,n-1
+        n= len(nums)
+        l=0
+        r=n-1
         while l<r:
             mid=(l+r)//2
-            if mid%2 ==1:
+            if mid%2==1:
                 mid=mid-1
             if nums[mid]==nums[mid+1]:
-                l=mid+2 
+                l=mid+2
             else:
                 r=mid
-        
         return nums[l]
-        
-
-
